@@ -1,0 +1,17 @@
+D:\Abhishek\DivyaProject\TestAutomationProject\TestFrameworkUtil\obj\Debug\net6.0\TestFrameworkUtil.csproj.AssemblyReference.cache
+D:\Abhishek\DivyaProject\TestAutomationProject\TestFrameworkUtil\obj\Debug\net6.0\TestFrameworkUtil.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abhishek\DivyaProject\TestAutomationProject\TestFrameworkUtil\obj\Debug\net6.0\TestFrameworkUtil.AssemblyInfoInputs.cache
+D:\Abhishek\DivyaProject\TestAutomationProject\TestFrameworkUtil\obj\Debug\net6.0\TestFrameworkUtil.AssemblyInfo.cs
+D:\Abhishek\DivyaProject\TestAutomationProject\TestFrameworkUtil\obj\Debug\net6.0\TestFrameworkUtil.csproj.CoreCompileInputs.cache
+D:\Abhishek\DivyaProject\TestAutomationProject\TestFrameworkUtil\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+D:\Abhishek\DivyaProject\TestAutomationProject\TestFrameworkUtil\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+D:\Abhishek\DivyaProject\TestAutomationProject\TestFrameworkUtil\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+D:\Abhishek\DivyaProject\TestAutomationProject\TestFrameworkUtil\bin\Debug\net6.0\App.config
+D:\Abhishek\DivyaProject\TestAutomationProject\TestFrameworkUtil\bin\Debug\net6.0\TestFrameworkUtil.dll.config
+D:\Abhishek\DivyaProject\TestAutomationProject\TestFrameworkUtil\bin\Debug\net6.0\TestFrameworkUtil.deps.json
+D:\Abhishek\DivyaProject\TestAutomationProject\TestFrameworkUtil\bin\Debug\net6.0\TestFrameworkUtil.dll
+D:\Abhishek\DivyaProject\TestAutomationProject\TestFrameworkUtil\bin\Debug\net6.0\TestFrameworkUtil.pdb
+D:\Abhishek\DivyaProject\TestAutomationProject\TestFrameworkUtil\obj\Debug\net6.0\TestFrameworkUtil.dll
+D:\Abhishek\DivyaProject\TestAutomationProject\TestFrameworkUtil\obj\Debug\net6.0\refint\TestFrameworkUtil.dll
+D:\Abhishek\DivyaProject\TestAutomationProject\TestFrameworkUtil\obj\Debug\net6.0\TestFrameworkUtil.pdb
+D:\Abhishek\DivyaProject\TestAutomationProject\TestFrameworkUtil\obj\Debug\net6.0\ref\TestFrameworkUtil.dll
